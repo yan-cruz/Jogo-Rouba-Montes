@@ -30,8 +30,8 @@ Segue algumas imagens da compilação:
 
 - Página inicial e Instruções
 
-![inicial](https://github.com/yan-cruz/Jogo-Rouba-Montes/assets/90066228/0c2bf6e4-c372-4715-83de-f45cc178da45).
+![inicial](https://github.com/yan-cruz/Jogo-Rouba-Montes/assets/90066228/0c2bf6e4-c372-4715-83de-f45cc178da45)
 
 - Impressão das rodadas
 
-![rodadas](https://github.com/yan-cruz/Jogo-Rouba-Montes/assets/90066228/770d612a-126e-450c-8e58-ef190a82a69f).
+![rodadas](https://github.com/yan-cruz/Jogo-Rouba-Montes/assets/90066228/770d612a-126e-450c-8e58-ef190a82a69f)
